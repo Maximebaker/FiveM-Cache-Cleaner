@@ -14,5 +14,3 @@
     5. N.B.: Vous pouvez évidemment mettre l'icône de votre choix! Il n'est pas obligatoire de mettre une icône de FiveM.
 5. Vous pouvez maintenant lancer ce script pour nettoyer automatiquement la cache de votre FiveM!
 <br/>
-
-## Pour du support, veuillez [créer un ticket sur le Discord d'Emace Airoh](https://discord.emace-airoh.ca) <-- Cliquez ici!
